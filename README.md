@@ -38,3 +38,6 @@ After clicking on upload icon you can see the connecting dots as the above image
 Now remove the jumper connection between GPIO1(IO0) and GND on ESP32 CAM module. Open serial monitor and set the baud rate to the value which we mentioned in the code i.e., 115200 and press RST button on the ESP cam board.
 
 Now you can see the IP address of the webserver from where we can access the ESP32 CAM features, camera etc. 
+
+
+documentation credit: https://www.circuitschools.com/how-to-program-upload-the-code-to-esp32-cam-using-arduino-or-programmer/#:~:text=As%20we%20already%20learnt%20ESP32,converters%20such%20as%20FTDI%20programmer.
