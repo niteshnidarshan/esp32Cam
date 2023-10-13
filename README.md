@@ -41,3 +41,18 @@ Now you can see the IP address of the webserver from where we can access the ESP
 
 
 documentation credit: https://www.circuitschools.com/how-to-program-upload-the-code-to-esp32-cam-using-arduino-or-programmer/#:~:text=As%20we%20already%20learnt%20ESP32,converters%20such%20as%20FTDI%20programmer.
+
+Arduino IDE -> prefrences -> Additional board manager URLs:
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
+https://dl.espressif.com/dl/package_esp32_index.json
+https://github.com/adamvr/arduino-base64/blob/master/library.properties
+https://github.com/ambiot/ambpro2_arduino/raw/main/Arduino_package/package_realtek.com_amebapro2_index.json
+https://github.com/espressif/arduino-esp32/blob/master/libraries/ESPmDNS/library.properties
+https://github.com/espressif/arduino-esp32/blob/master/package.json
+https://github.com/khoih-prog/FTPClient_Generic/blob/main/library.json
+https://github.com/khoih-prog/FTPClient_Generic/blob/main/library.properties
+https://github.com/me-no-dev/ESPAsyncWebServer/blob/master/library.json
+https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/blob/master/library.json
+https://github.com/zhouhan0126/WIFIMANAGER-ESP32/blob/master/library.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
