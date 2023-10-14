@@ -56,3 +56,15 @@ https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/blob/master/libra
 https://github.com/zhouhan0126/WIFIMANAGER-ESP32/blob/master/library.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+
+
+
+https://dl.espressif.com/dl/package_esp32_index.json,
+https://github.com/adamvr/arduino-base64/blob/master/library.properties,
+https://github.com/ambiot/ambpro2_arduino/raw/main/Arduino_package/package_realtek.com_amebapro2_index.json,
+https://github.com/espressif/arduino-esp32/blob/master/libraries/ESPmDNS/library.properties,
+https://github.com/espressif/arduino-esp32/blob/master/package.json,
+https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/blob/master/library.json,
+https://github.com/zhouhan0126/WIFIMANAGER-ESP32/blob/master/library.json,
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
+
